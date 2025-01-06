@@ -28,27 +28,11 @@ Une application mobile conçue pour interagir avec des écrans intelligents, off
 
 ---
 
-### [Wpf_Pendu_Quentin_Vernaison](https://github.com/QuentinVrns/Wpf_Pendu_Quentin_Vernaison)
-Une implémentation du jeu du Pendu développée en WPF, mettant en œuvre des concepts avancés de programmation en C#.
-
-- **Technologies utilisées :** ![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white) ![WPF](https://img.shields.io/badge/WPF-5C2D91?style=for-the-badge&logo=.net&logoColor=white)
-- **Points forts :** Gestion des événements, logique de jeu robuste.
-
----
-
-### [Wpf_Calculatrice_QuentinVernaison](https://github.com/QuentinVrns/Wpf_Calculatrice_QuentinVernaison)
-Une calculatrice complète développée avec WPF, offrant des fonctionnalités basiques et avancées.
-
-- **Technologies utilisées :** ![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white) ![WPF](https://img.shields.io/badge/WPF-5C2D91?style=for-the-badge&logo=.net&logoColor=white)
-- **Points forts :** Interface claire, robustesse du traitement des calculs.
-
----
 
 ## 🛠️ Compétences Techniques
 
 ### **Langages de Programmation**
 ![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
-![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 
 ### **Frameworks**
@@ -73,7 +57,7 @@ Une calculatrice complète développée avec WPF, offrant des fonctionnalités b
 
 ## 📫 Contact
 
-- ✉️ **Email :** [quentin.vernaison@example.com](mailto:quentin.vernaison@example.com)
+- ✉️ **Email :** [vernaison.quentin@outlook.com](mailto:vernaison.quentin@outlook.com)
 - 🌐 **LinkedIn :** [Votre Profil LinkedIn](https://www.linkedin.com/in/quentin-vernaison)
 
 ---
