@@ -90,7 +90,7 @@ Grâce à des architectures solides comme MVVM et à mon expertise technique, je
 <div align="center">
 
 ✉️ **Email :** [vernaison.quentin@outlook.com](mailto:vernaison.quentin@outlook.com)  
-🌐 **LinkedIn :** [Quentin Vernaison]([https://www.linkedin.com/in/quentin-vernaison](https://www.linkedin.com/in/quentin-vernaison-9aa1a632a/))  
+🌐 **LinkedIn :** [Quentin Vernaison]([https://www.linkedin.com/in/quentin-vernaison](https://www.linkedin.com/in/quentin-vernaison-9aa1a632a/)  
 
 </div>
 
