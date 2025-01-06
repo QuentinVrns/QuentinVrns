@@ -48,29 +48,6 @@ Grâce à des architectures solides comme MVVM et à mon expertise technique, je
   - Communication avec les appareils via le protocole **MQTT**.
   - Architecture **MVVM** pour une modularité accrue.
 
----
-
-### [Wpf_Pendu_Quentin_Vernaison](https://github.com/QuentinVrns/Wpf_Pendu_Quentin_Vernaison)
-🎮 *Jeu du pendu développé en WPF pour explorer la logique de programmation et la gestion des événements.*
-
-- **Technologies utilisées :**  
-  ![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)  
-  ![WPF](https://img.shields.io/badge/WPF-5C2D91?style=for-the-badge&logo=.net&logoColor=white)
-- **Compétences mises en œuvre :**  
-  - Gestion d'événements en temps réel.
-  - Conception de l'interface utilisateur avec une logique robuste.
-
----
-
-### [Wpf_Calculatrice_QuentinVernaison](https://github.com/QuentinVrns/Wpf_Calculatrice_QuentinVernaison)
-🧮 *Application calculatrice avec WPF, intégrant des fonctionnalités avancées.*
-
-- **Technologies utilisées :**  
-  ![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)  
-  ![WPF](https://img.shields.io/badge/WPF-5C2D91?style=for-the-badge&logo=.net&logoColor=white)
-- **Compétences mises en œuvre :**  
-  - Logique de traitement optimisée.
-  - Interface utilisateur intuitive et ergonomique.
 
 </div>
 
