@@ -1,37 +1,47 @@
-# Bonjour, je suis Quentin Vernaison 👋
+<h1 align="center">Bonjour, je suis Quentin Vernaison 👋</h1>
 
-Développeur passionné, je me concentre sur la création d'applications intuitives et performantes, en combinant design réfléchi et expertise technique. Voici un aperçu de mes projets phares :
+<p align="center">
+Développeur passionné, je crée des applications performantes et intuitives en combinant <strong>design réfléchi</strong> et <strong>expertise technique</strong>.
+</p>
+
+---
 
 ## 🌟 Projets Notables
 
-### [DesignBlablacar](https://github.com/QuentinVrns/DesignBlablacar)
-Une réinterprétation du design de l'application Blablacar, intégrant des concepts modernes d'interface utilisateur.
+<div align="center">
 
-- **Technologies utilisées :** ![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white) ![WPF](https://img.shields.io/badge/WPF-5C2D91?style=for-the-badge&logo=.net&logoColor=white)
-- **Points forts :** Interface utilisateur intuitive et responsive.
+### [DesignBlablacar](https://github.com/QuentinVrns/DesignBlablacar)
+📱 *Réinterprétation du design de l'application Blablacar avec une interface moderne.*
+
+![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
+![WPF](https://img.shields.io/badge/WPF-5C2D91?style=for-the-badge&logo=.net&logoColor=white)
 
 ---
 
 ### [ProjetAdminSmartDisplay](https://github.com/QuentinVrns/ProjetAdminSmartDisplay)
-Un projet d'administration pour gérer des écrans connectés. Cette application permet de configurer, superviser et gérer les contenus affichés.
+🖥️ *Outil de gestion d'écrans connectés pour configurer et superviser des contenus.*
 
-- **Technologies utilisées :** ![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white) ![WPF](https://img.shields.io/badge/WPF-5C2D91?style=for-the-badge&logo=.net&logoColor=white) ![API REST](https://img.shields.io/badge/API-REST-blue?style=for-the-badge)
-- **Points forts :** Gestion simplifiée des affichages connectés.
+![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
+![WPF](https://img.shields.io/badge/WPF-5C2D91?style=for-the-badge&logo=.net&logoColor=white)
+![API REST](https://img.shields.io/badge/API-REST-blue?style=for-the-badge)
 
 ---
 
 ### [EcranMobileSmartScreen](https://github.com/QuentinVrns/EcranMobileSmartScreen)
-Une application mobile conçue pour interagir avec des écrans intelligents, offrant une interface utilisateur portable et conviviale.
+📲 *Application mobile pour interagir avec des écrans intelligents.*
 
-- **Technologies utilisées :** ![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white) ![MAUI](https://img.shields.io/badge/MAUI-512BD4?style=for-the-badge&logo=.net&logoColor=white)
-- **Points forts :** Accessibilité multiplateforme et intégration API.
+![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
+![MAUI](https://img.shields.io/badge/MAUI-512BD4?style=for-the-badge&logo=.net&logoColor=white)
+
+</div>
 
 ---
 
-
 ## 🛠️ Compétences Techniques
 
-### **Langages de Programmation**
+<div align="center">
+
+### **Langages**
 ![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 
@@ -45,21 +55,35 @@ Une application mobile conçue pour interagir avec des écrans intelligents, off
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 
+</div>
+
 ---
 
 ## 📈 Statistiques GitHub
+
+<div align="center">
 
 ![Statistiques GitHub](https://github-readme-stats.vercel.app/api?username=QuentinVrns&show_icons=true&theme=radical)
 
 ![Langages les plus utilisés](https://github-readme-stats.vercel.app/api/top-langs/?username=QuentinVrns&layout=compact&theme=radical)
 
+</div>
+
 ---
 
 ## 📫 Contact
 
-- ✉️ **Email :** [vernaison.quentin@outlook.com](mailto:vernaison.quentin@outlook.com)
-- 🌐 **LinkedIn :** [Votre Profil LinkedIn](https://www.linkedin.com/in/quentin-vernaison)
+<div align="center">
+
+✉️ **Email :** [vernaison.quentin@outlook.com](mailto:vernaison.quentin@outlook.com)  
+🌐 **LinkedIn :** [Quentin Vernaison](https://www.linkedin.com/in/quentin-vernaison)  
+
+</div>
 
 ---
 
-Merci de visiter mon profil GitHub ! Si vous avez des questions ou souhaitez collaborer, n'hésitez pas à me contacter. 🚀
+<div align="center">
+
+⭐️ Merci de visiter mon profil GitHub ! Si vous avez des questions ou souhaitez collaborer, n'hésitez pas à me contacter. 🚀
+
+</div>
