@@ -1,7 +1,8 @@
 <h1 align="center">Bonjour, je suis Quentin Vernaison 👋</h1>
 
 <p align="center">
-Développeur passionné, je crée des applications performantes et intuitives en combinant <strong>design réfléchi</strong> et <strong>expertise technique</strong>.
+Je suis un développeur passionné spécialisé dans la création d'applications performantes et modernes.  
+Grâce à des architectures solides comme MVVM et à mon expertise technique, je conçois des applications intuitives connectées à des bases de données et à des systèmes comme MQTT.
 </p>
 
 ---
@@ -11,27 +12,65 @@ Développeur passionné, je crée des applications performantes et intuitives en
 <div align="center">
 
 ### [DesignBlablacar](https://github.com/QuentinVrns/DesignBlablacar)
-📱 *Réinterprétation du design de l'application Blablacar avec une interface moderne.*
+📱 *Application développée avec MAUI, recréant une interface moderne inspirée de l'application Blablacar.*
 
-![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
-![WPF](https://img.shields.io/badge/WPF-5C2D91?style=for-the-badge&logo=.net&logoColor=white)
+- **Technologies utilisées :**  
+  ![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)  
+  ![MAUI](https://img.shields.io/badge/MAUI-512BD4?style=for-the-badge&logo=.net&logoColor=white)
+- **Compétences mises en œuvre :**  
+  - Utilisation de l'architecture **MVVM** pour une séparation claire des responsabilités.
+  - Conception et intégration de **mockups** pour l'interface utilisateur.
+  - Connexion à une base de données pour la gestion des données dynamiques.
 
 ---
 
 ### [ProjetAdminSmartDisplay](https://github.com/QuentinVrns/ProjetAdminSmartDisplay)
-🖥️ *Outil de gestion d'écrans connectés pour configurer et superviser des contenus.*
+🖥️ *Application WPF pour gérer des écrans connectés et superviser leurs contenus.*
 
-![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
-![WPF](https://img.shields.io/badge/WPF-5C2D91?style=for-the-badge&logo=.net&logoColor=white)
-![API REST](https://img.shields.io/badge/API-REST-blue?style=for-the-badge)
+- **Technologies utilisées :**  
+  ![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)  
+  ![WPF](https://img.shields.io/badge/WPF-5C2D91?style=for-the-badge&logo=.net&logoColor=white)  
+  ![API REST](https://img.shields.io/badge/API-REST-blue?style=for-the-badge)
+- **Compétences mises en œuvre :**  
+  - Liaison dynamique avec une **base de données** via API REST.
+  - Gestion des événements et des interactions en temps réel.
 
 ---
 
 ### [EcranMobileSmartScreen](https://github.com/QuentinVrns/EcranMobileSmartScreen)
-📲 *Application mobile pour interagir avec des écrans intelligents.*
+📲 *Application mobile connectée aux écrans intelligents, avec gestion multiplateforme.*
 
-![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
-![MAUI](https://img.shields.io/badge/MAUI-512BD4?style=for-the-badge&logo=.net&logoColor=white)
+- **Technologies utilisées :**  
+  ![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)  
+  ![MAUI](https://img.shields.io/badge/MAUI-512BD4?style=for-the-badge&logo=.net&logoColor=white)  
+  ![MQTT](https://img.shields.io/badge/MQTT-23A1C0?style=for-the-badge&logo=mqtt&logoColor=white)
+- **Compétences mises en œuvre :**  
+  - Communication avec les appareils via le protocole **MQTT**.
+  - Architecture **MVVM** pour une modularité accrue.
+
+---
+
+### [Wpf_Pendu_Quentin_Vernaison](https://github.com/QuentinVrns/Wpf_Pendu_Quentin_Vernaison)
+🎮 *Jeu du pendu développé en WPF pour explorer la logique de programmation et la gestion des événements.*
+
+- **Technologies utilisées :**  
+  ![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)  
+  ![WPF](https://img.shields.io/badge/WPF-5C2D91?style=for-the-badge&logo=.net&logoColor=white)
+- **Compétences mises en œuvre :**  
+  - Gestion d'événements en temps réel.
+  - Conception de l'interface utilisateur avec une logique robuste.
+
+---
+
+### [Wpf_Calculatrice_QuentinVernaison](https://github.com/QuentinVrns/Wpf_Calculatrice_QuentinVernaison)
+🧮 *Application calculatrice avec WPF, intégrant des fonctionnalités avancées.*
+
+- **Technologies utilisées :**  
+  ![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)  
+  ![WPF](https://img.shields.io/badge/WPF-5C2D91?style=for-the-badge&logo=.net&logoColor=white)
+- **Compétences mises en œuvre :**  
+  - Logique de traitement optimisée.
+  - Interface utilisateur intuitive et ergonomique.
 
 </div>
 
@@ -42,20 +81,19 @@ Développeur passionné, je crée des applications performantes et intuitives en
 <div align="center">
 
 ### **Langages**
-![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
+![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)  
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 
 ### **Frameworks**
-![WPF](https://img.shields.io/badge/WPF-5C2D91?style=for-the-badge&logo=.net&logoColor=white)
+![MAUI](https://img.shields.io/badge/MAUI-512BD4?style=for-the-badge&logo=.net&logoColor=white)  
+![WPF](https://img.shields.io/badge/WPF-5C2D91?style=for-the-badge&logo=.net&logoColor=white)  
 ![.NET](https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=.net&logoColor=white)
-![MAUI](https://img.shields.io/badge/MAUI-512BD4?style=for-the-badge&logo=.net&logoColor=white)
 
-### **Outils**
-![Visual Studio](https://img.shields.io/badge/Visual%20Studio-5C2D91?style=for-the-badge&logo=visual-studio&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-
-</div>
+### **Outils et Protocoles**
+![Visual Studio](https://img.shields.io/badge/Visual%20Studio-5C2D91?style=for-the-badge&logo=visual-studio&logoColor=white)  
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)  
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)  
+![MQTT](https://img.shields.io/badge/MQTT-23A1C0?style=for-the-badge&logo=mqtt&logoColor=white)
 
 ---
 
@@ -63,8 +101,7 @@ Développeur passionné, je crée des applications performantes et intuitives en
 
 <div align="center">
 
-![Statistiques GitHub](https://github-readme-stats.vercel.app/api?username=QuentinVrns&show_icons=true&theme=radical)
-
+![Statistiques GitHub](https://github-readme-stats.vercel.app/api?username=QuentinVrns&show_icons=true&theme=radical)  
 ![Langages les plus utilisés](https://github-readme-stats.vercel.app/api/top-langs/?username=QuentinVrns&layout=compact&theme=radical)
 
 </div>
@@ -84,6 +121,6 @@ Développeur passionné, je crée des applications performantes et intuitives en
 
 <div align="center">
 
-⭐️ Merci de visiter mon profil GitHub ! Si vous avez des questions ou souhaitez collaborer, n'hésitez pas à me contacter. 🚀
+⭐️ Merci de visiter mon profil GitHub ! Si vous souhaitez collaborer ou en apprendre plus sur mes projets, contactez-moi. 🚀
 
 </div>
